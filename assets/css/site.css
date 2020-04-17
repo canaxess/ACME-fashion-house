@@ -1,0 +1,182 @@
+.promo
+{
+	margin-bottom:0px!important;
+}
+
+.womenItem
+{
+	background-image: url(../../assets/img/covers/cover-1.jpg);
+}
+
+.menItem
+{
+	background-image: url(../../assets/img/covers/cover-2.jpg);
+}
+
+.kidItem
+{
+	background-image: url(../../assets/img/covers/cover-3.jpg);
+}
+
+.innerItem
+{
+	min-height: 470px;
+}
+
+.itemHeader
+{
+	background-color:black;
+	padding:10px;
+	width:fit-content;
+}
+
+.topSeller
+{
+	padding-bottom:0px!important;
+}
+
+.footer
+{
+	background-image: url(../../assets/img/patterns/pattern-2.svg);
+}
+
+.bags
+{
+	min-height: 400px; 
+	background-image: url(../../assets/img/site/bags.png);
+}
+
+.shirts
+{
+	min-height: 400px; 
+	background-position:-70px -300px;  
+	background-image: url(../../assets/img/site/mensshirts.png);
+}
+
+.dresses
+{
+	min-height: 400px; 
+	background-position:-400px -400px; 
+	background-image: url(../../assets/img/site/womensdresses.png);
+}
+
+.sweatshirts
+{
+	min-height: 400px; 
+	background-position:-200px -400px; 
+	background-image: url(../../assets/img/site/sweatshirt.png);
+}
+
+.h2, h2
+{
+	font-size: 2.75rem;
+}
+
+.h4, h4
+{
+	font-size: 1.75rem;
+}
+
+.h5
+{
+	font-size: 1.5rem;
+}
+
+.heading-xxs h2
+{
+	font-size:inherit;
+}
+
+.sr-hidden
+{
+	position:absolute;
+	left:-10000px;
+	top:auto;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+
+#skiplink a 
+{
+	position:absolute;
+	left:-10000px;
+	top:auto;
+	width:1px;
+	height:1px;
+	overflow:hidden;
+}
+
+#skiplink a:focus 
+{
+	position:static;
+	width:auto;
+	height:auto;
+}
+
+h3 a.d-block
+{
+	font-size:1rem!important;
+}
+
+.h2BestPicks, h2.h2BestPicks
+{
+	font-size: 2.25rem;
+	font-weight: 500;
+    line-height: 1.2;
+}
+
+.correct
+{
+	border-top: 4px solid #d4edda !important;
+	background-color: #d4edda !important;
+	border-bottom: 4px solid #155724 !important;
+	color:black !important;
+	-webkit-filter: grayscale(100%) sepia(100%) hue-rotate(90deg) !important;
+	filter: grayscale(100%) sepia(100%) hue-rotate(90deg) !important;
+}
+
+.border
+{
+	border:1px solid gray;
+	padding:30px;
+}
+
+label
+{
+	font-weight:600;
+}
+
+.custom-select
+{
+	width:inherit;
+}
+
+ul
+{
+	padding-left:0px;
+	list-style:none;
+}
+
+legend
+{
+	font-size:100%;
+}
+
+h2.contactus, h2.alert-heading
+{
+	font-size: 2.25rem !important;
+	font-weight: 500;
+	line-height: 1.2;
+}
+
+.inline-alert
+{
+	padding:0 .2rem 0 .2rem;
+	border-left:4px solid #8d423b;
+}
+
+input:focus, select:focus
+{
+	border:2px solid red !important;
+}
