@@ -5,7 +5,7 @@ A page title is one way a user can orientate themselves to a website and can be 
 1. Choose a more descriptive page title as the current title is unclear
 
 ## Solution
-* The page title has been changed to **ACME Fashion House** as it is the homepage, alternative title text could also be **ACME Fashion House home**
+* The page title has been changed to **ACME Fashion House** as it is the homepage, alternative title text could also be **ACME Fashion House home**.
 
 ```
 <title>ACME Fashion House</title>
