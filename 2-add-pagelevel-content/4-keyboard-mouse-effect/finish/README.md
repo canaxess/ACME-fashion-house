@@ -1,0 +1,18 @@
+# 4. Add Keyboard And Mouse Focus
+The often-overlooked way of navigating a website is via the keyboard. All interactions may be accessible from the keyboard, but if users can’t see where the screen focus is when navigating, it makes it that much harder to know where they are on the page.
+
+## Activity
+1. Create a consistent mouse and keyboard focus effect for the navigation links
+Hint: this involves editing the CSS file focus.css
+
+## Solution
+* The file `focus.css` is editted to add a CSS focus effect which underlines all links in focus from the mouse and keyboard
+```
+a:focus, a:hover, a:focus i, a:hover i
+{
+	text-decoration:underline !important;
+}
+```
+
+## Live Demo
+Add Keyboard And Mouse Focus
