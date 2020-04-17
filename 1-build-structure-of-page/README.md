@@ -1,4 +1,4 @@
-# Build The Structure of the Page
+# Building The Structure of the Page
 Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
 ## Activity
 Don’t worry if you get stuck, re-watch the relevant unit and try again. If you need a nudge, checkout the completed example for each unit and compare against your own code. In the completed code a green highlight effect is applied to elements and regions of the page to show additions and alternations.
