@@ -6,7 +6,7 @@ A page title is one way a user can orientate themselves to a website and can be 
 
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the [`/finish/`](https://github.com/canaxess/ACME-fashion-house/tree/master/build-structure-of-page/3.2-descriptive-page-titles/finish) directory
+1. Compare your changes against the file `index.html` in the `/finish/` directory
 
 ## Live Demo
 Create Descriptive Page Titles
