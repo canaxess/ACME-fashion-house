@@ -9,5 +9,32 @@ Page content which repeats across multiple pages is a challenge for keyboard and
 * The link is hidden using CSS until tabbed to
 * The link destination is the **Best Picks 2020** heading which has an ID of `content`
 
+```css
+#skiplink a 
+{
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+
+#skiplink a:focus 
+{
+  position:static;
+  width:auto;
+  height:auto;
+}
+```
+
+```html
+<div id="skiplink">
+  <a href="#content" class="correct">Skip to Main Content</a>
+</div>
+
+<div class="mb-4 h2BestPicks correct" id="content">Best Picks 2020</div>
+```
+
 ## Live Demo
 Bypass Repeating Content
