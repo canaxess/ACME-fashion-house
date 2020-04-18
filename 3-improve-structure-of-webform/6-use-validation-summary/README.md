@@ -4,6 +4,17 @@ A validation summary acts as a convenient grouping mechanism where all errors ar
 ## Activity
 1. Add a validation summary for the whole form
 
+## Code
+* Use the validation summary fragment
+```html
+<div class="alert alert-danger">
+
+<h2 class="alert-heading">Errors have occurred</h2>
+<hr>
+
+</div>
+```
+
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
 1. Compare your changes against the file `index.html` in the `/finish/` directory
