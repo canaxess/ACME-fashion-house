@@ -9,6 +9,6 @@ Go ahead and clone this repo to your machine, then dive in and get started!
 
 | Module | Topic |
 | --- | --- |
-| Module 1 | Build The Structure Of The Page
-| Module 2 | Add Page Level Content
-| Module 3 | Improve The Structure Of A Webform
+| Module 1 | Building The Structure of the Page
+| Module 2 | Adding Page Level Content
+| Module 3 | Improving The Structure Of A Webform
