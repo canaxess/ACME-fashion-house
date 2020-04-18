@@ -6,7 +6,7 @@ Page content which repeats across multiple pages is a challenge for keyboard and
 
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the [`/finish/`](https://github.com/canaxess/ACME-fashion-house/tree/master/build-structure-of-page/3.6-bypass-repeating-content/finish) directory
+1. Compare your changes against the file `index.html` in the `/finish/` directory
 
 ## Live Demo
 Bypass Repeating Content
