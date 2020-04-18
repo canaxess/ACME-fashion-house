@@ -6,7 +6,7 @@ Landmark regions are an accessibility feature that help identify the high-level 
 
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the [`/finish/`](https://github.com/canaxess/ACME-fashion-house/tree/master/build-structure-of-page/3.10-HTML5-landmark-regions/finish) directory
+1. Compare your changes against the file `index.html` in the `/finish/` directory
 
 ## Live Demo
 Add HTML5 Landmark Regions
