@@ -6,9 +6,15 @@ For vision impaired users every image needs to provide a text alternative, which
 
 ## Solution
 * Images which assist a user understanding the page have descriptive `ALT` text whilst decorative images have blank `ALT` text
-```
+
+### Descriptive image
+```html
 <img class="card-img-top card-img-front correct" src="../../../assets/img/site/sandals.png" 
 width="253" height="300" alt="open toe sandals">
+```
+### Decorative image
+```html
+<img src="../../../assets/img/brands/gray-350/reebok.svg" class="img-fluid mb-7 mb-md-0 correct" alt="">
 ```
 
 ## Live Demo
