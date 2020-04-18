@@ -7,7 +7,7 @@ Hint: this involves editing the CSS file focus.css
 
 ## Solution
 * The file `focus.css` is editted to add a CSS focus effect which underlines all links in focus from the mouse and keyboard
-```
+```css
 a:focus, a:hover, a:focus i, a:hover i
 {
 	text-decoration:underline !important;
