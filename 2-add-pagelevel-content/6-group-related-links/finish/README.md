@@ -6,7 +6,7 @@ Sometimes links on a page are related, they may be links in the header such as n
 
 ## Solution
 * All footer links contained in `<ul>` list elements
-```
+```html
 <ul class="correct">
   <li><a class="text-gray-300 " href="#">Contact Us</a></li>
   <li><a class="text-gray-300 " href="#">FAQs</a></li>
