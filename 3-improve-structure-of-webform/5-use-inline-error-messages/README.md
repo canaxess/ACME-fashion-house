@@ -4,6 +4,10 @@ When a form control is in error, a message is often displayed next to the contro
 ## Activity
 1. Make all inline error messages programmatically associated to the controls
 
+## Code
+Use the inline error message fragment<br>
+`<span class="inline-alert alert-primary">Title is empty</span>`
+
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
 1. Compare your changes against the file `index.html` in the `/finish/` directory
