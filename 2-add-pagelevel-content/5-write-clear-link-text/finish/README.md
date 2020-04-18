@@ -6,7 +6,7 @@ Links are the core way to navigate between webpages, but creating link text whic
 
 ## Solution
 * All "Shop Now" links have been altered to have the link destination on the front of the link, followed by "...Shop Now"
-```
+```html
 <a class="btn btn-link stretched-link text-reset correct" href="#">
   Bags Collection Shop Now <i class="fe fe-arrow-right ml-2"></i>
 </a>
