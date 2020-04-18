@@ -4,6 +4,14 @@ Nearly all form elements need a label. Without a label form controls that receiv
 ## Activity
 1.	Programmatically associate all labels to the form controls Title, First name, Last name, Email address
 
+## Solution
+* All form controls have a programmatically associated label using the `FOR` attribute of the label with the `ID` of the form control
+
+```html
+<label for="first" class="correct">First Name</label> 
+<input type="text" id="first" class="form-control" autocomplete="off">
+```
+
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
 1. Compare your changes against the file `index.html` in the `/finish/` directory
