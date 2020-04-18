@@ -4,6 +4,10 @@ Giving the user advanced notice of what they are required to complete on a form 
 ## Activity
 1. Mark all form controls as required, and newsletter signup, and shipping options as optional
 
-## Instructions
-1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the `/finish/` directory
+## Solution
+* All required form controls have the word Required in the label of the control
+```html
+<label for="first" class="correct">First Name (required)</label>
+```
+## Live Demo
+Highlight Required Input
