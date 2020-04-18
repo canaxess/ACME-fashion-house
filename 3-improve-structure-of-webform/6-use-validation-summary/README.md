@@ -8,7 +8,6 @@ A validation summary acts as a convenient grouping mechanism where all errors ar
 * Use the validation summary fragment
 ```html
 <div class="alert alert-danger">
-
 <h2 class="alert-heading">Errors have occurred</h2>
 <hr>
 
