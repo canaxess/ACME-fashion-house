@@ -12,6 +12,5 @@ Nearly all form elements need a label. Without a label form controls that receiv
 <input type="text" id="first" class="form-control" autocomplete="off">
 ```
 
-## Instructions
-1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the `/finish/` directory
+## Live Demo
+Add Labels To Controls
