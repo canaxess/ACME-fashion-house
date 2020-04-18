@@ -6,7 +6,7 @@ A language code helps screen reader and other assistive technology users identif
 
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the [`/finish/`](https://github.com/canaxess/ACME-fashion-house/tree/master/build-structure-of-page/3.4-set-page-language/finish) directory
+1. Compare your changes against the file `index.html` in the `/finish/` directory
 
 ## Live Demo
 Set The Page Language
