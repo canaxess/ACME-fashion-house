@@ -6,7 +6,7 @@ Semantic elements are HTML elements which provide a structure and meaning to the
 
 ## Solution
 * The `<blockquote>` is applied to all quotes on the page, the `<cite>` element within `<blockquote>` is also applied
-```
+```html
 <blockquote class="text-muted correct">
   These sneakers are just what I needed! they have a mixture of fabrics, and provide fantastic heel support. 
   The underside however, has a hard wearing sole which becomes slippery in the rain.
