@@ -7,7 +7,7 @@ _Hint: use the keyboard to tab through the content to find which elements receiv
 
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the [`/finish/`](https://github.com/canaxess/ACME-fashion-house/tree/master/build-structure-of-page/3.12-artificial-tabindex/finish) directory
+1. Compare your changes against the file `index.html` in the `/finish/` directory
 
 ## Live Demo
 Avoid An Artificial Tabindex
