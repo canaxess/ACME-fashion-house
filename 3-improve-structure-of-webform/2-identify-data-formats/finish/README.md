@@ -4,6 +4,11 @@ Providing a text description with a programmatically associated label will help 
 ## Activity
 1.	Add constraint information to the _Last name_ label describing the maximum number of allowed characters the control accepts
 
-## Instructions
-1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the `/finish/` directory
+## Solution
+* The maximum character count constraint is added into the form controls label
+```html
+<label for="last" class="correct">Last Name (20 character maximum)</label>
+```
+
+## Live Demo
+Identify Data Formats
