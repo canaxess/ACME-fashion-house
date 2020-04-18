@@ -4,7 +4,9 @@ Each activity is organised in separate folders with the start and finished code 
 
 ## Activity
 
-Don’t worry if you get stuck, re-watch the relevant lecture and try again. If you need a nudge, checkout the completed example for each lecture and compare against your own code. In the completed code a green highlight effect is applied to elements and regions of the page to show additions and alternations.
+Don’t worry if you get stuck, re-watch the relevant lecture and try again. If you need a nudge, checkout the completed example for each lecture and compare against your own code. 
+
+In the completed code a green highlight effect is applied to elements and regions of the page to show additions and alternations.
 
 | Activity | Task |
 | :---: | --- |
