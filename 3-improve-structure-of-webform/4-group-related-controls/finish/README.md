@@ -4,6 +4,17 @@ Grouping related controls together can help a user understand relationships more
 ## Activity
 1. Group the shipping options together
 
-## Instructions
-1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the `/finish/` directory
+## Solution
+* The shipping options are grouped within a `<fieldset>` element
+* The `<legend>` element has the text '**Please indicate your shipping preferences by selecting the relevant option**'
+```html
+<fieldset class="correct">
+<legend>Please indicate your shipping preferences by selecting the relevant option</legend>
+
+~ shipping option controls ~
+
+</fieldset>
+```
+
+## Live Demo
+Group Related Controls
