@@ -4,6 +4,12 @@ When a form control is in error, a message is often displayed next to the contro
 ## Activity
 1. Make all inline error messages programmatically associated to the controls
 
-## Instructions
-1. Alter the file `index.html` in the `/start/` directory
-1. Compare your changes against the file `index.html` in the `/finish/` directory
+## Solution
+* The inline error message has been added within the label element
+```html
+<label for="first" class="correct">First Name (required) 
+  <span class="inline-alert alert-primary">First Name is empty</span>
+</label>
+```
+## Live Demo
+Use Inline Error Messages
