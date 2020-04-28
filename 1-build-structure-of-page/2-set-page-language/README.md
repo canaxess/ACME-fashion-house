@@ -7,6 +7,4 @@ A language code helps screen reader and other assistive technology users identif
 ## Instructions
 1. Alter the file `index.html` in the `/start/` directory
 1. Compare your changes against the file `index.html` in the `/finish/` directory
-
-## Live Demo
-Set The Page Language
+1. Changes are described in the [README.md](finish/README.md)
