@@ -1,8 +1,12 @@
 # Structuring a Web Form
 
-Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
+Filling in a form shouldn’t become a guessing game for the user. Forms can be improved by adding programmatically associated labels to form controls and providing extra hints for each control within the label.
+
+When constraint information is explained up front as in the case of character limits or specific data formats described in labels, it's making it easier for the user to complete the form with minimal corrections. The intention is to have the user not make any mistakes as they know before hand the type of data or specific format required.
 
 ## Activity
+
+Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
 
 Don’t worry if you get stuck, re-watch the relevant lecture and try again. If you need a nudge, checkout the completed example for each lecture and compare against your own code. 
 
