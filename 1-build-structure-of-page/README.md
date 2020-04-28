@@ -1,8 +1,10 @@
 # Building The Structure of the Page
 
-Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
+Every webpage needs to have an underlying structure of accessibility even before the content (what people interact with) can be made accessible. Think of the underlying structure of each page as the accessible skeleton which provides support for other UI components and content to benefit from. 
 
 ## Activity
+
+Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
 
 Don’t worry if you get stuck, re-watch the relevant lecture and try again. If you need a nudge, checkout the completed example for each lecture and compare against your own code. 
 
