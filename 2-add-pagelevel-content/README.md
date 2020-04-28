@@ -1,8 +1,12 @@
 # Adding Page Level Content
 
-Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
+The way content is laid out on a page can affect assistive technology from interpreting it correctly. However, by choosing the correct element or using an element attributes means extra information can be provided which can assist users. 
+
+Think of semantic elements as meta data which gives hints to the user through the assistive technology, and attributes on elements as switches which can improve the way content is rendered.
 
 ## Activity
+
+Each activity is organised in separate folders with the start and finished code showing how it is achieved, the start code is what you will alter.
 
 Don’t worry if you get stuck, re-watch the relevant lecture and try again. If you need a nudge, checkout the completed example for each lecture and compare against your own code. 
 
