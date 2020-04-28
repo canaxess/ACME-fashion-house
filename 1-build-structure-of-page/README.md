@@ -10,9 +10,9 @@ In the completed code a green highlight effect is applied to elements and region
 
 | Activity | Task |
 | :---: | --- |
-| 1 | Choose a more descriptive page title as the current title is unclear
-| 2 | The HTML has no default language applied. Provide a global language which is applied to the whole page
-| 3 | Add a skip link to bypass the repeating page navigation located in the header and navigate to the beginning of the "Best Picks 2020" section
-| 4 | Apply as many heading elements as required to text which you think should be a heading
-| 5 | Add the navigation landmarks header, footer and main to the HTML
-| 6 | Remove the artificial `tabindex` attribute on all the footer elements and observe the before and after effects
+| 1 | [Choose a more descriptive page title as the current title is unclear](1-descriptive-page-titles/README.md)
+| 2 | [The HTML has no default language applied. Provide a global language which is applied to the whole page](2-set-page-language/README.md)
+| 3 | [Add a skip link to bypass the repeating page navigation located in the header and navigate to the beginning of the "Best Picks 2020" section](3-bypass-repeating-content/README.md)
+| 4 | [Apply as many heading elements as required to text which you think should be a heading](4-create-logical-headings/README.md)
+| 5 | [Add the navigation landmarks header, footer and main to the HTML](5-HTML5-landmark-regions/README.md)
+| 6 | [Remove the artificial `tabindex` attribute on all the footer elements and observe the before and after effects](6-artificial-tabindex/README.md)
