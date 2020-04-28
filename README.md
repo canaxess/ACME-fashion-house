@@ -1,6 +1,8 @@
-# ACME-fashion-house
+# ACME Fashion House
 Welcome to the ACME fashion house demo website!
 The ACME fashion house website has several accessibility errors. In this workshop we will fix each issue and explain the outcome.
+
+![ACME Fashion House homepage](https://github.com/canaxess/ACME-fashion-house/blob/master/assets/img/site/screen.png)
 
 ## Getting Started
 Go ahead and clone this repo to your machine, then dive in and get started!
