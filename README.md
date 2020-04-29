@@ -5,7 +5,12 @@ The ACME fashion house website has several accessibility errors. In this worksho
 ![ACME Fashion House homepage](assets/img/site/screen.png)
 
 ## Getting Started
-Go ahead and clone this repo to your machine, then dive in and get started!
+Go ahead and clone or download this repo to your machine, then dive in and get started!
+
+### Installing
+* [Colour Contrast Analyser (Windows and Mac)](https://developer.paciellogroup.com/resources/contrastanalyser/)
+* [Google Chrome](https://www.google.com/chrome/)
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 
 ## Modules
 
