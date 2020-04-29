@@ -6,6 +6,12 @@ When a form control is in error, a message is often displayed next to the contro
 
 ## Solution
 * The inline error message has been added within the label element
+
+Placing the inline error message (the span element) within the `<label>` element uses the established programmatic association with the control. When the control receives focus, the label is announced followed by the error message.
+
+The error message can be injected into the `<label>` element or a style toggled to only show the message on error.
+
+### Code
 ```html
 <label for="first" class="correct">First Name (required) 
   <span class="inline-alert alert-primary">First Name is empty</span>
