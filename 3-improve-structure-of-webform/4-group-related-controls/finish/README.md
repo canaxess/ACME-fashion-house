@@ -7,6 +7,12 @@ Grouping related controls together can help a user understand relationships more
 ## Solution
 * The shipping options are grouped within a `<fieldset>` element
 * The `<legend>` element has the text '**Please indicate your shipping preferences by selecting the relevant option**'
+
+The `<fieldset>` element can trigger the screen reader to announce the `<legend>` text when each control contained in the fieldset receives keyboard focus.
+
+This grouping structure provides greater context to controls where the label text may be insufficient.
+
+### Code
 ```html
 <fieldset class="correct">
 <legend>Please indicate your shipping preferences by selecting the relevant option</legend>
