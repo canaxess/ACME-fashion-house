@@ -6,6 +6,10 @@ Giving the user advanced notice of what they are required to complete on a form 
 
 ## Solution
 * All required form controls have the word Required in the label of the control
+
+Deciding on simpler wording to highlight controls which have to be completed makes the form a little easier to understand. Additionally placing the wording within the `<label>` element ensures the text is announced by the screen reader when the control is in focus.
+
+### Code
 ```html
 <label for="first" class="correct">First Name (required)</label>
 ```
