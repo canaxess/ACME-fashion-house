@@ -14,7 +14,7 @@ This grouping structure provides greater context to controls where the label tex
 
 ### Code
 ```html
-<fieldset class="correct">
+<fieldset>
 <legend>Please indicate your shipping preferences by selecting the relevant option</legend>
 
 ~ shipping option controls ~
