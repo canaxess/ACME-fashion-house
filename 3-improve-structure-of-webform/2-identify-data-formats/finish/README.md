@@ -11,7 +11,7 @@ Providing the maximum character constraint information in the label ensures when
 
 ### Code
 ```html
-<label for="last" class="correct">Last Name (20 character maximum)</label>
+<label for="last">Last Name (20 character maximum)</label>
 ```
 
 ## Live Demo
