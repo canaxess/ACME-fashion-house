@@ -14,7 +14,7 @@ The validation summary also has a `<h2>` element to provide a hierarchy and is p
 
 ### Code
 ```html
-<div class="alert alert-danger correct">
+<div class="alert alert-danger">
 <h2 class="alert-heading">Errors have occurred</h2>
 <hr>
 
