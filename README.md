@@ -21,4 +21,3 @@ Go ahead and clone or download this repo to your machine, then dive in and get s
 | Module 2 | [Adding Page Level Content](2-add-pagelevel-content/README.md)
 | Module 3 | [Improving The Structure Of A Webform](3-improve-structure-of-webform/README.md)
 
-Built with :heart: by [CANAXESS](https://www.canaxess.com.au/)
