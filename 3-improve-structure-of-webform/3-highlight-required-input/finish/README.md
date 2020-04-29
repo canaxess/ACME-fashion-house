@@ -11,7 +11,7 @@ Deciding on simpler wording to highlight controls which have to be completed mak
 
 ### Code
 ```html
-<label for="first" class="correct">First Name (required)</label>
+<label for="first">First Name (required)</label>
 ```
 ## Live Demo
 Highlight Required Input
