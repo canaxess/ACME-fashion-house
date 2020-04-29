@@ -1,5 +1,6 @@
 # ACME Fashion House
-Welcome to the ACME fashion house demo website!
+Welcome to the ACME fashion house demo website! This is the demo website for the UDEMY course **Introduction to Web Accessibility WCAG 2.1.** 
+
 The ACME fashion house website has several accessibility errors. In this workshop we will fix each issue and explain the outcome.
 
 ![ACME Fashion House homepage](assets/img/site/screen.png)
