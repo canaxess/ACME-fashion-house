@@ -13,7 +13,7 @@ The error message can be injected into the `<label>` element or a style toggled 
 
 ### Code
 ```html
-<label for="first" class="correct">First Name (required) 
+<label for="first">First Name (required) 
   <span class="inline-alert alert-primary">First Name is empty</span>
 </label>
 ```
