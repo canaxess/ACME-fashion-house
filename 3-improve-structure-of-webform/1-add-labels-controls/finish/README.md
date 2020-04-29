@@ -7,6 +7,9 @@ Nearly all form elements need a label. Without a label form controls that receiv
 ## Solution
 * All form controls have a programmatically associated label using the `FOR` attribute of the label with the `ID` of the form control
 
+Using the `FOR` and `ID` attributes creates a programmatic link between the label and control and ensures when the control receives focus the accompanying label is announced. An additional benefit is the increased control activation area where the label can also be used to focus the control.
+
+### Code
 ```html
 <label for="first" class="correct">First Name</label> 
 <input type="text" id="first" class="form-control" autocomplete="off">
