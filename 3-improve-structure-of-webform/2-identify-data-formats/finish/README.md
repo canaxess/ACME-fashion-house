@@ -6,6 +6,10 @@ Providing a text description with a programmatically associated label will help 
 
 ## Solution
 * The maximum character count constraint is added into the form controls label
+
+Providing the maximum character constraint information in the label ensures when the control receives keyboard focus, the constraint information is announced as part of the label text.
+
+### Code
 ```html
 <label for="last" class="correct">Last Name (20 character maximum)</label>
 ```
