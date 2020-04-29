@@ -11,6 +11,7 @@ Go ahead and clone or download this repo to your machine, then dive in and get s
 * [Colour Contrast Analyser (Windows and Mac)](https://developer.paciellogroup.com/resources/contrastanalyser/)
 * [Google Chrome](https://www.google.com/chrome/)
 * [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+* [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 ## Modules
 
