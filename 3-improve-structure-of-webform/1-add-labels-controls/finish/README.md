@@ -11,8 +11,8 @@ Using the `FOR` and `ID` attributes creates a programmatic link between the labe
 
 ### Code
 ```html
-<label for="first" class="correct">First Name</label> 
-<input type="text" id="first" class="form-control" autocomplete="off">
+<label for="first">First Name</label> 
+<input type="text" id="first" autocomplete="off">
 ```
 
 ## Live Demo
