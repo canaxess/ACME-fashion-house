@@ -6,8 +6,12 @@ Sometimes links on a page are related, they may be links in the header such as n
 
 ## Solution
 * All footer links contained in `<ul>` list elements
+
+Grouping related links together within `<ul>` elements can trigger the screen reader to announce the number of items within the list. This extra infromation can be thought of as meta data which helps a user understand how the page is structured.
+
+### Code
 ```html
-<ul class="correct">
+<ul>
   <li><a class="text-gray-300 " href="#">Contact Us</a></li>
   <li><a class="text-gray-300 " href="#">FAQs</a></li>
   <li><a class="text-gray-300 " href="#">Size Guide</a></li>
