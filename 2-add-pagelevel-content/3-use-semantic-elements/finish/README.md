@@ -11,7 +11,7 @@ Semantic elements provide the screen reader with metadata. Using the `<blockquot
 
 ### Code
 ```html
-<blockquote class="text-muted correct">
+<blockquote class="text-muted">
   These sneakers are just what I needed! they have a mixture of fabrics, and provide fantastic heel support. 
   The underside however, has a hard wearing sole which becomes slippery in the rain.
   <cite class="font-size-xs text-muted">
