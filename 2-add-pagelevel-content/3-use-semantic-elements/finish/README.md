@@ -6,6 +6,10 @@ Semantic elements are HTML elements which provide a structure and meaning to the
 
 ## Solution
 * The `<blockquote>` is applied to all quotes on the page, the `<cite>` element within `<blockquote>` is also applied
+
+Semantic elements provide the screen reader with metadata. Using the `<blockquote>` element may trigger the screen reader to use a different intonation or indicate it's a quote, in essence giving hints to the user the text is different.
+
+### Code
 ```html
 <blockquote class="text-muted correct">
   These sneakers are just what I needed! they have a mixture of fabrics, and provide fantastic heel support. 
