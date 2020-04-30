@@ -7,12 +7,13 @@ Hint: this involves editing the CSS file focus.css
 
 ## Solution
 * The file `focus.css` is editted to add a CSS focus effect which underlines all links in focus from the mouse and keyboard
-* `a:focus` pseudo class styles a link when focused from the keyboard
-* `a:hover` pseudo class styles a link when focused from the mouse
 
 The same focus effect applied on keyboard and mouse navigation confirms to the user the link has the same action regardless how it is interacted with.
 
 A consistent keyboard and mouse focus effect help users identify the screen focus when navigating by keyboard or mouse. Relying on the default browser focus effect alone can't be the only way to identify in focus elements due to differences amongst browsers.
+
+* `a:focus` pseudo class styles a link when focused from the keyboard
+* `a:hover` pseudo class styles a link when focused from the mouse
 
 ### Code
 ```css
