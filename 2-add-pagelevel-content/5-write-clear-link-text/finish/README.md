@@ -6,6 +6,12 @@ Links are the core way to navigate between webpages, but creating link text whic
 
 ## Solution
 * All "Shop Now" links have been altered to have the link destination on the front of the link, followed by "...Shop Now"
+
+Link text is sorted alphabetically within the screen reader elements/links list. Placing the unique part of the link text at the beginning of the link allows a screen reader user to understand the link destination easier. The sorting is based on the unique part of the link text not the repeated 'Shop Now...'.
+
+A screen reader user can understand the destination of the link without having to listen to several audible 'Shop Now...' before hearing the important destination text.
+
+### Code
 ```html
 <a class="btn btn-link stretched-link text-reset correct" href="#">
   Bags Collection Shop Now <i class="fe fe-arrow-right ml-2"></i>
