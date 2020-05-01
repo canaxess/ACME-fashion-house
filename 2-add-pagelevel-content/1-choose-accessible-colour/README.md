@@ -3,7 +3,7 @@ Colour contrast is really important for users with visual impairments. A colour 
 
 ## Activity
 1. [Download the Colour Contrast Analyser tool](https://developer.paciellogroup.com/resources/contrastanalyser/)
-1. Identify if the heading colour "Top month Sellers" is an accessible colour when compared against the background
+1. Identify if the heading colour **Top month Sellers** is an accessible colour when compared against the background
 
 ## Instructions
 1. Examine the file `index.html` with the Colour Contrast Analyser tool in the `/start/` directory
