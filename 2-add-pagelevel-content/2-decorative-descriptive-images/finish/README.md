@@ -7,12 +7,15 @@ For vision impaired users every image needs to provide a text alternative, which
 ## Solution
 * Images which assist a user understanding the page have descriptive `ALT` text whilst decorative images have blank `ALT` text
 
-### Descriptive image
+### Code
+**Descriptive image**<br>
+`ALT` text causes the screen reader to announce the text. The text must convey what the image is showing.
 ```html
 <img class="card-img-top card-img-front correct" src="../../../assets/img/site/sandals.png" 
 width="253" height="300" alt="open toe sandals">
 ```
-### Decorative image
+**Decorative image**<br>
+Null `ALT` text causes the screen reader to ignore the image, this is especially useful for decorative images which don't need to be conveyed.
 ```html
 <img src="../../../assets/img/brands/gray-350/reebok.svg" class="img-fluid mb-7 mb-md-0 correct" alt="">
 ```
