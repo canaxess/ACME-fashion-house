@@ -7,7 +7,8 @@ A language code helps screen reader and other assistive technology users identif
 ## Solution
 * The `<html>` element has the attribute `lang` added with a value of **en-au** (Australian English)
 
-```
+### Code
+```html
 <html lang="en-au">
 ```
 
