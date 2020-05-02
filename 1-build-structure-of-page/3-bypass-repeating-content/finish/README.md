@@ -9,6 +9,11 @@ Page content which repeats across multiple pages is a challenge for keyboard and
 * The link is hidden using CSS until tabbed to
 * The link destination is the **Best Picks 2020** heading which has an ID of `content`
 
+Skip links are located at the top of page as the first links in the keyboard tab sequence. The CSS uses off-screen positioning to hide the link from display in its default state. When the link is focused from the keyboard its position is back onto the screen.
+
+The skip link `href` value is `content` which is the id of the region **Best Picks 2020** focus is moved to. The skipped to region can be named anything however the `href` value of the skip link must match the `id` of the destination.
+
+### Code
 ```css
 #skiplink a 
 {
