@@ -7,7 +7,8 @@ A page title is one way a user can orientate themselves to a website and can be 
 ## Solution
 * The page title has been changed to **ACME Fashion House** as it is the homepage, alternative title text could also be **ACME Fashion House home**.
 
-```
+### Code
+```html
 <title>ACME Fashion House</title>
 ```
 
