@@ -10,4 +10,4 @@ The colour `#D3D3D3` is a fail for both large and regular text on [WCAG 2.1 1.4.
 The Red, Green, Blue slides on the Colour Contrast Analyser tool can be adjusted to darken the colour. An acceptable colour for the text could `#000000` (Black) or `#757675` which is a darker version of the gray.
 
 ## Live Demo
-Choose Accessible Colours
+[Choose Accessible Colours](https://canaxess.github.io/ACME-fashion-house/2-add-pagelevel-content/1-choose-accessible-colour/finish/)
