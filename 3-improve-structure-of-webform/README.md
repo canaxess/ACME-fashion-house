@@ -1,4 +1,4 @@
-# Structuring a Web Form
+# Improving The Structure Of A Webform
 
 Filling in a form shouldn’t become a guessing game for the user. Forms can be improved by adding programmatically associated labels to form controls and providing extra hints for each control within the label.
 
