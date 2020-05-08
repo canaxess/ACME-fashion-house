@@ -21,4 +21,4 @@ Null `ALT` text causes the screen reader to ignore the image, this is especially
 ```
 
 ## Live Demo
-Decorative And Descriptive Images
+[Decorative And Descriptive Images](https://canaxess.github.io/ACME-fashion-house/2-add-pagelevel-content/2-decorative-descriptive-images/finish/)
