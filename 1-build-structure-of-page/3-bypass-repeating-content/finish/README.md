@@ -42,4 +42,4 @@ The skip link `href` value is `content` which is the id of the region **Best Pic
 ```
 
 ## Live Demo
-Bypass Repeating Content
+[Bypass Repeating Content](https://canaxess.github.io/ACME-fashion-house/1-build-structure-of-page/3-bypass-repeating-content/finish/)
