@@ -21,4 +21,4 @@ Semantic elements provide the screen reader with metadata. Using the `<blockquot
 ```
 
 ## Live Demo
-Use Semantic Elements
+[Use Semantic Elements](https://canaxess.github.io/ACME-fashion-house/2-add-pagelevel-content/3-use-semantic-elements/finish/)
