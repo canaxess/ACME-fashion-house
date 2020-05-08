@@ -14,4 +14,4 @@ Deciding on simpler wording to highlight controls which have to be completed mak
 <label for="first">First Name (required)</label>
 ```
 ## Live Demo
-Highlight Required Input
+[Highlight Required Input](https://canaxess.github.io/ACME-fashion-house/3-improve-structure-of-webform/3-highlight-required-input/finish/)
