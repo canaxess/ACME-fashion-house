@@ -10,7 +10,7 @@ Landmark regions are an accessibility feature that help identify the high-level 
 * `<main>` contains the content body
 * `<footer>` contains the footer links including the subscription component
 
-Using the HTML5 landmark regions makes the HTML easier to read with less reliance on DIV elements in addition to providing navigational landmarks for screen reader users.
+Using the HTML5 landmark regions makes the HTML easier to read with less reliance on `DIV` elements in addition to providing navigational landmarks for screen reader users.
 
 ## Live Demo
-Add HTML5 Landmark Regions
+[Add HTML5 Landmark Regions](https://canaxess.github.io/ACME-fashion-house/1-build-structure-of-page/5-HTML5-landmark-regions/finish/)
