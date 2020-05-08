@@ -29,4 +29,4 @@ The validation summary also has a `<h2>` element to provide a hierarchy and is p
 ```
 
 ## Live Demo
-Use A Validation Summary
+[Use A Validation Summary](https://canaxess.github.io/ACME-fashion-house/3-improve-structure-of-webform/6-use-validation-summary/finish/)
