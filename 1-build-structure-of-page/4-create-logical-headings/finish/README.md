@@ -10,4 +10,4 @@ Headings elements are used to better reflect the hierarchy of the page content:
 * Several `<h2>` elements added with `<h3>` when necessary
 
 ## Live Demo
-Create Logical Headings
+[Create Logical Headings](https://canaxess.github.io/ACME-fashion-house/1-build-structure-of-page/4-create-logical-headings/finish/)
