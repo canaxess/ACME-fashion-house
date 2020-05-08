@@ -19,4 +19,4 @@ A screen reader user can understand the destination of the link without having t
 ```
 
 ## Live Demo
-Write Clear Link Text
+[Write Clear Link Text](https://canaxess.github.io/ACME-fashion-house/2-add-pagelevel-content/5-write-clear-link-text/finish/)
