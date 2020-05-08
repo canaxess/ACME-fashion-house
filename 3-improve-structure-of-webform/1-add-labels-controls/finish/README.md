@@ -16,4 +16,4 @@ Using the `FOR` and `ID` attributes creates a programmatic link between the labe
 ```
 
 ## Live Demo
-Add Labels To Controls
+[Add Labels To Controls](https://canaxess.github.io/ACME-fashion-house/3-improve-structure-of-webform/1-add-labels-controls/finish/)
