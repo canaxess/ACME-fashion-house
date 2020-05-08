@@ -14,9 +14,9 @@ In the completed code a green highlight effect is applied to elements and region
 
 | Activity | Task |
 | :---: | --- |
-1 | [Identify if the heading colour "Top month Sellers" is an accessible colour when compared against the background](1-choose-accessible-colour/README.md)
-2 | [Add `ALT` text to images you think require a description and null `ALT` text to images you think should be ignored](2-decorative-descriptive-images/README.md)
-3 | [Apply the `<blockquote>` element to all reviews](3-use-semantic-elements/README.md)
-4 | [Create a consistent mouse and keyboard focus effect for the navigation links<p>_Hint: this involves editing the CSS file focus.css_](4-keyboard-mouse-effect/README.md)
-5 | [Replace all instances of "Shop Now" with clear link text](5-write-clear-link-text/README.md)
-6 | [Use an unordered list element to group related footer links together](6-group-related-links/README.md)
+1 | [Identify if the heading colour "Top month Sellers" is an accessible colour when compared against the background](1-choose-accessible-colour/)
+2 | [Add `ALT` text to images you think require a description and null `ALT` text to images you think should be ignored](2-decorative-descriptive-images/)
+3 | [Apply the `<blockquote>` element to all reviews](3-use-semantic-elements/)
+4 | [Create a consistent mouse and keyboard focus effect for the navigation links<p>_Hint: this involves editing the CSS file focus.css_](4-keyboard-mouse-effect/)
+5 | [Replace all instances of "Shop Now" with clear link text](5-write-clear-link-text/)
+6 | [Use an unordered list element to group related footer links together](6-group-related-links/)
