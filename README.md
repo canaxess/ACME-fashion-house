@@ -1,3 +1,6 @@
+> [!NOTE]
+> Hi folks, I’m gradually retiring this repository and moving all the course code to CodePen. Nothing is being lost and all the code is still available. But now it's organised in a clearer, easier-to-follow format [CodePen link](https://codepen.io/collection/kkvPjw). Hope to see you there!
+
 # ACME Fashion House
 Welcome to the ACME fashion house demo website! This is the demo website for the **[Introduction to Web Accessibility WCAG 2.1](https://www.udemy.com/course/introduction-to-web-accessibility-wcag21/?referralCode=05B73E4177FADAD9930A)** Udemy course.
 
